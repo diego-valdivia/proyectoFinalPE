@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "ProyectoFinalPlataformasEmergentes",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2024-01-19T15:36:46.316Z"
+}
